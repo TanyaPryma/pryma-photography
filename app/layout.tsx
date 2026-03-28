@@ -1,3 +1,4 @@
+import "./globals.css";
 export const metadata = {
   title: "Pryma Photography",
   description: "Luxury wedding, family, and portrait photography in South Florida.",
